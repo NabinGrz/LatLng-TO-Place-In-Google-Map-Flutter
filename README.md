@@ -11,7 +11,7 @@ Please note that permissions are not handled in this project.
 
 ## Usage
 Note that you will need to obtain a Google Maps API key and enable the Google Maps Places API for your project.
-Once you have KEYAIzaSyC1hPtLvodKUzWFncp_R1DDPg1tYe3D7xYkey, add your key in lib/constants/string_constants.dart.
+Once you have AIzaSyC1hPtLvodKUzWFncp_R1DDPg1tYe3D7xY, add your key in lib/constants/string_constants.dart.
 
 
 
