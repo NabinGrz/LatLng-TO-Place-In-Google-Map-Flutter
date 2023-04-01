@@ -1,5 +1,5 @@
 class AppString {
   AppString._();
 
-  static String googleMapApiKey = "AIzaSyC1hPtLvodKUzWFncp_R1DDPg1tYe3D7xY";
+  static String googleMapApiKey = "YOUR GOOGLE MAP API KEY";
 }
